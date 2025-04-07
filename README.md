@@ -1,6 +1,9 @@
+
 <p align="center">
-  <img src="./assets/icd-logo-rotate-smooth.gif" width="100" alt="ICD Logo Rotating"/>
+  <img src="./icd-logo-rotate-smooth.gif" width="100" alt="ICD Logo Rotating"/>
 </p>
+
+
 
 <h1 align="center">I Can Do This All Day</h1>
 <p align="center"><strong>필요한 기술을, 필요한 사람에게</strong></p>
@@ -44,9 +47,6 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/icd-banner.jpeg" width="80%" alt="ICD Banner"/>
-</p>
 
 <p align="center">
   <em>작지만 강한, 단단한 브랜드</em><br/>
